@@ -3,7 +3,7 @@
 Gồm 3 module chính:
 + Quản lý tài liệu
 + Trình ký
-+ 
++ Yêu cầu hỗ trợ
 
 Khóa học gồm 13 buổi học
 

@@ -1,5 +1,10 @@
 # DỰ ÁN: XÂY DỰNG PHẦN MỀM QUẢN LÝ TÀI LIỆU (E-OFFICE)
 
+Gồm 3 module chính:
++ Quản lý tài liệu
++ Trình ký
++ 
+
 Khóa học gồm 13 buổi học
 
 Thông qua khóa học này:
